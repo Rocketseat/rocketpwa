@@ -7,7 +7,7 @@ A toolbelt created for PWA developers.
 - Generate icons in all sizes;
 - Generate rounded icons;
 - Generate splash screens for iOS;
-- Resize splash screens without croping content;
+- Resize splash screens without cropping content;
 
 ## How to use
 
