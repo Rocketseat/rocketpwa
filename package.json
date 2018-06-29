@@ -1,6 +1,6 @@
 {
   "name": "rocketpwa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Command line toolbelt for PWA developers.",
   "main": "index.js",
   "scripts": {
