@@ -1,8 +1,8 @@
+![RocketPWA](assets/pwa-logo.png)
+
 # RocketPWA
 
 A toolbelt created for PWA developers.
-
-![RocketPWA](assets/pwa-logo.png)
 
 ## Features
 
