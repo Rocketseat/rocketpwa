@@ -2,6 +2,8 @@
 
 A toolbelt created for PWA developers.
 
+![RocketPWA](assets/pwa-logo.png)
+
 ## Features
 
 - Generate icons in all sizes;
